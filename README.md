@@ -2,7 +2,7 @@
 
 An element providing a starting point for your own reusable Polymer elements.
 
-(Demo and documentation)[https://mortega5.github.io/google-geocoding]
+[Demo and documentation](https://mortega5.github.io/google-geocoding)
 
 
 ## Dependencies
