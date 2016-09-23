@@ -1,0 +1,39 @@
+{
+  "name": "google-geocoding",
+  "authors": [
+    "miguel ortega moreno <mortega@conwet.com"
+  ],
+  "description": "Element for get the coordinate of anyname using Google Maps Geocoding",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed",
+    "google",
+    "geocoding",
+    "web-components"
+  ],
+  "main": "https://mortega5.github.io/google-geocoding",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/Mortega5/google-geocoding/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-ajax": "^1.4.3"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  },
+  "_release": "ce735d5109",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ce735d5109ae11ef9e7d1161bf43a0d640b0de6f"
+  },
+  "_source": "git://github.com/Mortega5/google-geocoding.git",
+  "_target": "master",
+  "_originalSource": "Mortega5/google-geocoding",
+  "_direct": true
+}
